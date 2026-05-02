@@ -20,14 +20,6 @@
 
 ### 运行
 ```powershell
-# 进入项目目录
-cd python_learn
-
-# 以模块方式运行（推荐）
-python -m python_learn.learn
-
-# 或从上级目录启动
-cd ..
 python start_learn.py
 ```
 
